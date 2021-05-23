@@ -1,4 +1,4 @@
-** 👋 Hi, I’m @PerfectCode2020 **
+**👋 Hi, I’m @PerfectCode2020**
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning programming.
 - 💞️ I’m looking to collaborate on any project.
